@@ -1,0 +1,17 @@
+﻿  donut.cpp
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(30,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(31,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(32,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(33,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(34,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(35,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(36,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(39,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(40,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(41,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(43,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(44,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(46,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(56,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yuonur\source\repos\donut\donut\donut.cpp(57,25): warning C4305: '+=': truncation from 'double' to 'float'
+  donut.vcxproj -> C:\Users\yuonur\source\repos\donut\Debug\donut.exe
