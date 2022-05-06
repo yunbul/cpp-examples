@@ -1,0 +1,4 @@
+﻿  tictactoe.cpp
+C:\Users\yuonur\source\repos\tictactoe\tictactoe\tictactoe.cpp(226,6): warning C4101: 'rating': unreferenced local variable
+C:\Users\yuonur\source\repos\tictactoe\tictactoe\tictactoe.cpp(245,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  tictactoe.vcxproj -> C:\Users\yuonur\source\repos\tictactoe\Debug\tictactoe.exe
